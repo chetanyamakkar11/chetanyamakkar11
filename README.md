@@ -49,7 +49,7 @@ I focus on developing models, insights, and systems that give founders the clari
 
 ---
 
-## 📊 **GitHub Stats (Aesthetic Mode)**
+## 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetanyamakkar11&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
