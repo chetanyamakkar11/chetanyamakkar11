@@ -61,7 +61,7 @@ I focus on developing models, insights, and systems that give founders the clari
 ## 🌐 **Connect With Me**
 <p align="left">
   <a href="https://linkedin.com/in/chetanyamakkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/chetmak"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/chetanya_makkar"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
