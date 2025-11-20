@@ -1,68 +1,94 @@
-<!-- Banner -->
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2800&pause=1000&color=6A5BFF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Chetanya+(Chet)+Makkar;Quant+Researcher+%7C+AI+Builder+%7C+Startup+Operator;Always+Building.+Always+Learning." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=2800&pause=1000&color=6A5BFF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Chetanya+(Chet)+Makkar;Quant+Researcher+%7C+AI+Builder+%7C+Startup+Operator;Always+Building.+Always+Learning." />
 </p>
+
+<!-- Floating Icons -->
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65" style="animation: float 3s ease-in-out infinite;">
+  <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="65" style="animation: float 3s ease-in-out infinite; animation-delay: 0.3s;">
+  <img src="https://img.icons8.com/fluency/96/rocket.png" width="65" style="animation: float 3s ease-in-out infinite; animation-delay: 0.6s;">
+</p>
+
+<!-- Floating Animation CSS -->
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-12px); }
+  100% { transform: translateY(0px); }
+}
+</style>
 
 ---
 
-## 🧑‍💻 **About Me**
-I'm **Chetanya Makkar**, a CS student at the University of Maryland with a minor in **Computational Finance**, where I blend:
-- 🧠 **Quantitative research**
-- 🤖 **AI/ML systems**
-- 🚀 **Early-stage startup execution**
-- 📊 **Data-driven product building**
+# 🎯 <span style="background: linear-gradient(90deg,#6A5BFF,#8F6BFF); -webkit-background-clip: text; color: transparent;">About Me</span>
 
-Currently, I’m a **Quantitative Analyst at Contaris Partners**, helping startups:
+I'm **Chetanya Makkar**, a CS student at the University of Maryland minoring in **Computational Finance**.  
+My work blends:
+
+- 🧠 Quantitative research  
+- 🤖 AI/ML systems  
+- 🚀 Founder-level product building  
+- 📊 Data + execution for early-stage teams  
+
+Currently, I'm a **Quantitative Analyst at Contaris Partners**, helping startups:
 - scale intelligently  
-- build stronger financial engines  
-- validate their data strategies  
-- and reach the next stage of growth  
-
-I focus on developing models, insights, and systems that give founders the clarity to execute faster.
+- build financial/analytical engines  
+- validate with real data  
+- execute faster with clarity  
 
 ---
 
-## 🚀 **What I’m Building**
-- **OdeurAI** – AI-powered scent profiling + personalized fragrance engine  
-- **PersonaVest** – Psychological investing + personalized portfolio generator  
-- **FitSync** – Fitness + nutrition tracking with streaks + analytics  
-- **Ruhin Education** – EdTech for children with special needs  
-- **Resume NER Engine** – Doccano + Mixtral-powered resume skill/exp extractor  
+# 🚀 <span style="background: linear-gradient(90deg,#FF7AE5,#FFB86C); -webkit-background-clip: text; color: transparent;">What I’m Building</span>
+
+- **OdeurAI** – AI-based scent profiling + fragrance engine  
+- **PersonaVest** – Behavior-driven personalized investing  
+- **FitSync** – Fitness + nutrition tracking w/ streaks  
+- **Ruhin Education** – EdTech for special-needs education  
+- **Resume NER Engine** – Mixtral + Doccano skill extractor  
 
 ---
 
-## 📈 **Current Focus**
-- Quant research (momentum, mean reversion, volatility models, options pricing)  
-- Building LLM-powered agents for workflow automation  
-- Startup ops, financial modeling, and data infra  
-- Turning ideas → polished products → real users  
+# 📈 <span style="background: linear-gradient(90deg,#43D9AD,#4CC3FF); -webkit-background-clip: text; color: transparent;">Current Focus</span>
+
+- Momentum, mean reversion, vol models, options pricing  
+- LLM-powered agents + workflow automation  
+- Data → Strategy → Execution  
+- Building polished products with real users  
 
 ---
 
-## 🧠 **Tech Stack**
-**Languages:** Python, Java, OCaml, Rust, JavaScript, SQL  
-**Quant/DS:** Pandas, NumPy, SciPy, scikit-learn, StatsModels  
-**ML/AI:** PyTorch, Transformers, spaCy, ONNX  
-**LLM/Agents:** LangChain, Ollama, Groq, OpenAI APIs  
-**Web Dev:** React, Vite, Node, Firebase  
-**Tools:** Git, Docker, AWS, Notion, Figma  
+# 🧠 <span style="background: linear-gradient(90deg,#FFD54F,#FF9E80); -webkit-background-clip: text; color: transparent;">Tech Stack</span>
 
----
-
-## 🌐 **Connect With Me**
-<p align="left">
-  <a href="https://linkedin.com/in/chetanyamakkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/chetanya_makkar"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,rust,ocaml,js,react,nodejs,firebase,aws,git,docker,pytorch,latex&theme=light" />
 </p>
 
 ---
 
-## 🏆 **Founder Energy**
-> “Some people wait for opportunities. Others build them.”
+# 🌐 <span style="background: linear-gradient(90deg,#6A5BFF,#00C4FF); -webkit-background-clip: text; color: transparent;">Connect With Me</span>
 
-Every week I’m learning, building, experimenting, and sharing — whether it’s quant research, AI systems, or startup execution.  
-Always down to talk: markets, ML models, product strategy, or new ideas.
+<p align="center">
+  <a href="https://linkedin.com/in/chetanyamakkar"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/chetanya_makkar"><img src="https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
 ---
 
-<p align="center"><i>Always building. Always improving. Always pushing edges.</i></p>
+<!-- Animated Wave Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" />
+</p>
+
+# 🏆 <span style="background: linear-gradient(90deg,#FF6CAB,#7366FF); -webkit-background-clip: text; color: transparent;">Founder Energy</span>
+
+> “Some people wait for opportunities. Others build them.”  
+
+I spend every week experimenting, shipping, learning, and pushing edges — across quant, AI, and startups.  
+Always down to talk markets, ML models, or new ideas.
+
+---
+
+<p align="center">
+  <i>Always building. Always improving. Always pushing the edges.</i>
+</p>
