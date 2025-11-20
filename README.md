@@ -10,15 +10,6 @@
   <img src="https://img.icons8.com/fluency/96/rocket.png" width="65" style="animation: float 3s ease-in-out infinite; animation-delay: 0.6s;">
 </p>
 
-<!-- Floating Animation CSS -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-12px); }
-  100% { transform: translateY(0px); }
-}
-</style>
-
 ---
 
 # 🎯 <span style="background: linear-gradient(90deg,#6A5BFF,#8F6BFF); -webkit-background-clip: text; color: transparent;">About Me</span>
