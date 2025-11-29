@@ -35,7 +35,7 @@ Currently, I'm a **Quantitative Analyst at Contaris Partners**, helping startups
 - **OdeurAI** – AI-based scent profiling + fragrance engine  
 - **PersonaVest** – Behavior-driven personalized investing  
 - **FitSync** – Fitness + nutrition tracking w/ streaks  
-- **Ruhin Education** – EdTech for special-needs education  
+- **Novel Eval Metric for Code Translation** – Metric to judge how well LLMs perform code translations
 - **Resume NER Engine** – Mixtral + Doccano skill extractor  
 
 ---
